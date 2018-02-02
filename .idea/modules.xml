@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\BmobSmsV2.0-master\BmobSmsV2.0.iml" filepath="E:\BmobSmsV2.0-master\BmobSmsV2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BmobSmsV2.0-master.iml" filepath="$PROJECT_DIR$/BmobSmsV2.0-master.iml" />
+      <module fileurl="file://E:\BmobSmsV2.0-master\app\app.iml" filepath="E:\BmobSmsV2.0-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
